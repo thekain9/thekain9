@@ -1,6 +1,7 @@
+[![MasterHead](https://i.ibb.co/JzM8Rnv/loop-3-00-00-00-00-Still001-copy.png)
 <h1 align="center">Hi! I'm Manu Arias</h1>
 <h3 align="center">A passionate Frontend Developer | Graphic Designer</h3>
-
+<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1362913/screenshots/4620410/media/814e53034f47635ce0e5ed9d4acc17f3.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekain9&label=Profile%20views&color=0e75b6&style=flat" alt="thekain9" /> </p>
 
 - 🌱 I’m currently learning **React, Redux**
